@@ -1,0 +1,16 @@
+﻿  Metods HW31.01.cpp
+C:\Users\Rog\source\repos\Metods HW31.01\Metods HW31.01.cpp(29,18): warning C4267: =: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Rog\source\repos\Metods HW31.01\Metods HW31.01.cpp(171,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Rog\source\repos\Metods HW31.01\Metods HW31.01.cpp(196,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Rog\source\repos\Metods HW31.01\Metods HW31.01.cpp(220,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Rog\source\repos\Metods HW31.01\Metods HW31.01.cpp(245,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Rog\source\repos\Metods HW31.01\Metods HW31.01.cpp(262,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Rog\source\repos\Metods HW31.01\Metods HW31.01.cpp(275,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Rog\source\repos\Metods HW31.01\Metods HW31.01.cpp(289,29): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Rog\source\repos\Metods HW31.01\Metods HW31.01.cpp(291,32): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Rog\source\repos\Metods HW31.01\Metods HW31.01.cpp(319,29): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Rog\source\repos\Metods HW31.01\Metods HW31.01.cpp(321,32): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Rog\source\repos\Metods HW31.01\Metods HW31.01.cpp(345,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Rog\source\repos\Metods HW31.01\Metods HW31.01.cpp(357,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Rog\source\repos\Metods HW31.01\Metods HW31.01.cpp(370,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Metods HW31.01.vcxproj -> C:\Users\Rog\source\repos\Metods HW31.01\x64\Debug\Metods HW31.01.exe
